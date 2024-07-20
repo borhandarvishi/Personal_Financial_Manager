@@ -28,3 +28,5 @@ class CSV:
         print("Entry Added Successfully")
 
 CSV.initialize_csv()
+
+CSV.add_entry("1403-04-29",230000,"Expense","diroz raftam cafe")
